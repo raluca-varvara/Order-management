@@ -1,0 +1,2 @@
+Produs{ pesto, pret=25, cantitate=1}
+Pret total = 25
